@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WillDunwoody
-- 👀 I’m interested in
+- 👀 I’m interested in Javascript
 - 🌱 I’m currently learning HTML, CSS and Javascript following the theodinproject.com curriculum. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
