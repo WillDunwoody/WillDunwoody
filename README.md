@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WillDunwoody
 - 👀 I’m interested in Web development, mostly the backend.
-- 🌱 I’m currently learning HTML, CSS and Javascript following the theodinproject.com curriculum. 
+- 🌱 I’m currently learning HTML, CSS and Javascript through the Le Wagon bootcamp batch 990!
 
 
 <!---
