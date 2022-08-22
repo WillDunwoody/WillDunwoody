@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WillDunwoody
 - 👀 I’m interested in Web development, mostly the backend.
-- 🌱 I’m currently learning HTML, CSS and Javascript through the Le Wagon bootcamp batch 990!
+- 🌱 I’m currently learning HTML, CSS, Javascript, Ruby and Ruby on Rails through the Le Wagon bootcamp batch 990!
 
 
 <!---
