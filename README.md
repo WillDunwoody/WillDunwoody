@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willdunwoody&label=Profile%20views&color=0e75b6&style=flat" alt="willdunwoody" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willdunwoody" alt="willdunwoody" /></a> </p>
-
 - 🔭 I’m currently working on [Mind-Bubble](https://github.com/CaptainKurt91/mind-bubble)
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, Ruby on Rails**
