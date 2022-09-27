@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mind-Bubble](https://github.com/CaptainKurt91/mind-bubble), An app to help people with ADHD navigate the world.
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Ruby on Rails, Reacht.js**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Ruby on Rails, React.js**
 
 - 📫 How to reach me **will.dunwoody@gmail.com**
 
