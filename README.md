@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willdunwoody&label=Profile%20views&color=0e75b6&style=flat" alt="willdunwoody" /> </p>
 
-- 🔭 I’m currently working on [Teki](https://github.com/CaptainKurt91/mind-bubble), An app to help people with ADHD navigate the world.
+- 🔭 I’m currently working on [Teki](https://github.com/NicFie/Teki), An app to help people with ADHD navigate the world.
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, Ruby on Rails, React.js**
 
