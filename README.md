@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Teki](https://github.com/NicFie/Teki), Battle your friends by doing coding challenges to see who is the Victor!
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Ruby on Rails, React.js**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Ruby on Rails, React.js, Node.js**
 
 - 📫 How to reach me **will.dunwoody@gmail.com**
 
